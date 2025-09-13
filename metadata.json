@@ -1,0 +1,5 @@
+{
+  "name": "AMR AI",
+  "description": "An AI-powered tool that analyzes your website's HTML, CSS, and JavaScript to provide actionable suggestions for improvement in areas like UI/UX, performance, accessibility, and code quality.",
+  "requestFramePermissions": []
+}
